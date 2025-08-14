@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">30 Days of Small Talk</string>
+
+    <string name="day1">Day 1</string>
+    <string name="challenge_title_day1">Weather Wisdom</string>
+    <string name="challenge_desc_day1">Go beyond “nice day” and share how the weather affects your mood, plans, or activities.</string>
+
+    <string name="day2">Day 2</string>
+    <string name="challenge_title_day2">Weekend Warriors</string>
+    <string name="challenge_desc_day2">Ask about weekend plans or share one interesting detail from your own.</string>
+
+    <string name="day3">Day 3</string>
+    <string name="challenge_title_day3">Coffee Culture</string>
+    <string name="challenge_desc_day3">Discuss coffee or tea preferences, favorite cafes, or a new drink you tried.</string>
+
+    <string name="day4">Day 4</string>
+    <string name="challenge_title_day4">Commute Chronicles</string>
+    <string name="challenge_desc_day4">Share a funny or interesting commute story, or your go-to drive entertainment.</string>
+
+    <string name="day5">Day 5</string>
+    <string name="challenge_title_day5">Food Adventures</string>
+    <string name="challenge_desc_day5">Talk about a recent meal, a restaurant recommendation, or a recipe you want to try.</string>
+
+    <string name="day6">Day 6</string>
+    <string name="challenge_title_day6">Hobby Spotlight</string>
+    <string name="challenge_desc_day6">Share a hobby you love and ask others what they do for fun.</string>
+
+    <string name="day7">Day 7</string>
+    <string name="challenge_title_day7">Local Gems</string>
+    <string name="challenge_desc_day7">Discuss a favorite local spot, business, or event you enjoyed.</string>
+
+    <string name="day8">Day 8</string>
+    <string name="challenge_title_day8">Seasonal Shifts</string>
+    <string name="challenge_desc_day8">Comment on visible seasonal changes like leaves, decorations, or daylight.</string>
+
+    <string name="day9">Day 9</string>
+    <string name="challenge_title_day9">Pet Tales</string>
+    <string name="challenge_desc_day9">Share a funny or cute pet story, or ask if someone has pets.</string>
+
+    <string name="day10">Day 10</string>
+    <string name="challenge_title_day10">Technology Talk</string>
+    <string name="challenge_desc_day10">Discuss a useful app, gadget, or funny tech mishap.</string>
+
+    <string name="day11">Day 11</string>
+    <string name="challenge_title_day11">Travel Dreams</string>
+    <string name="challenge_desc_day11">Share a trip you enjoyed or ask about someone’s favorite vacation.</string>
+
+    <string name="day12">Day 12</string>
+    <string name="challenge_title_day12">Workout Woes &amp; Wins</string>
+    <string name="challenge_desc_day12">Talk about a fitness goal, activity, or post-workout feeling.</string>
+
+    <string name="day13">Day 13</string>
+    <string name="challenge_title_day13">TV &amp; Streaming</string>
+    <string name="challenge_desc_day13">Recommend a show or ask for viewing suggestions.</string>
+
+    <string name="day14">Day 14</string>
+    <string name="challenge_title_day14">Childhood Nostalgia</string>
+    <string name="challenge_desc_day14">Share a memory, snack, or game from your childhood.</string>
+
+    <string name="day15">Day 15</string>
+    <string name="challenge_title_day15">Music Moments</string>
+    <string name="challenge_desc_day15">Talk about a song, concert, or music preference.</string>
+
+    <string name="day16">Day 16</string>
+    <string name="challenge_title_day16">Home Projects</string>
+    <string name="challenge_desc_day16">Share a home project you did or plan to do.</string>
+
+    <string name="day17">Day 17</string>
+    <string name="challenge_title_day17">Book Recommendations</string>
+    <string name="challenge_desc_day17">Share a book, audiobook, or podcast you enjoyed.</string>
+
+    <string name="day18">Day 18</string>
+    <string name="challenge_title_day18">Celebration Stories</string>
+    <string name="challenge_desc_day18">Mention a recent birthday, anniversary, or achievement.</string>
+
+    <string name="day19">Day 19</string>
+    <string name="challenge_title_day19">Shopping Adventures</string>
+    <string name="challenge_desc_day19">Share a great find or funny shopping story.</string>
+
+    <string name="day20">Day 20</string>
+    <string name="challenge_title_day20">Health &amp; Wellness</string>
+    <string name="challenge_desc_day20">Discuss a new habit or wellness tip that works for you.</string>
+
+    <string name="day21">Day 21</string>
+    <string name="challenge_title_day21">Learning Something New</string>
+    <string name="challenge_desc_day21">Talk about a skill you’re learning or an interesting fact.</string>
+
+    <string name="day22">Day 22</string>
+    <string name="challenge_title_day22">Family Moments</string>
+    <string name="challenge_desc_day22">Share a light family story or tradition.</string>
+
+    <string name="day23">Day 23</string>
+    <string name="challenge_title_day23">Career Curiosity</string>
+    <string name="challenge_desc_day23">Ask about someone’s job in an interesting way.</string>
+
+    <string name="day24">Day 24</string>
+    <string name="challenge_title_day24">Local Events</string>
+    <string name="challenge_desc_day24">Discuss a community event, festival, or local sports team.</string>
+
+    <string name="day25">Day 25</string>
+    <string name="challenge_title_day25">Stress Busters</string>
+    <string name="challenge_desc_day25">Share how you unwind or ask others what relaxes them.</string>
+
+    <string name="day26">Day 26</string>
+    <string name="challenge_title_day26">Random Observations</string>
+    <string name="challenge_desc_day26">Comment on something quirky or interesting you noticed.</string>
+
+    <string name="day27">Day 27</string>
+    <string name="challenge_title_day27">Goal Setting</string>
+    <string name="challenge_desc_day27">Share a personal goal or ask about someone’s aspirations.</string>
+
+    <string name="day28">Day 28</string>
+    <string name="challenge_title_day28">Gratitude Moments</string>
+    <string name="challenge_desc_day28">Mention something you’re grateful for or what made you smile.</string>
+
+    <string name="day29">Day 29</string>
+    <string name="challenge_title_day29">Future Plans</string>
+    <string name="challenge_desc_day29">Discuss an upcoming event or activity you’re excited about.</string>
+
+    <string name="day30">Day 30</string>
+    <string name="challenge_title_day30">Conversation Mastery</string>
+    <string name="challenge_desc_day30">Reflect on your favorite conversation starter from the month.</string>
+</resources>
